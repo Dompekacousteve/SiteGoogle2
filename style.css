@@ -1,0 +1,50 @@
+.menuhaut  {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+.menuhaut nav ul li {
+	display: inline-block;
+}
+.sign{
+	background-color: #318CE7
+}
+li a{
+	text-decoration: none;
+}
+input{
+	border-radius: 5px
+}
+.logo{
+	text-align: center;
+}
+.barrederecherche{
+	text-align: center
+}
+.button{
+	text-align: center;
+}
+img{
+	height: 250px;
+	width: auto;
+	text-align: center;
+}
+.france{
+	background-color: gray
+}
+.menudroite{
+	text-align: right;
+}
+.menudroite li{
+	display: inline-block;
+}
+.menugauche li{
+	display: inline-block;
+}
+.menugauche{
+	background-color: gray
+}
+.menudroite{
+	background-color: gray 
+	margin: 90px;
+}
